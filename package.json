@@ -1,0 +1,15 @@
+{
+	"name": "theme-kc",
+	"version": "0.0.1",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "KC",
+				"uiTheme": "vs-dark",
+				"path": "./themes/KC.tmTheme"
+			}
+		]
+	}
+}
