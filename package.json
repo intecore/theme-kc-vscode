@@ -1,12 +1,12 @@
 {
-	"name": "Kean's Monokai Theme",
-	"version": "0.0.1",
+	"displayName": "Kean's Monokai Theme - beautifully tweaked",
+	"version": "1.0.0",
 	"publisher": "Kean Ching",
 	"engines": { "vscode": "*" },
 	"contributes": {
 		"themes": [
 			{
-				"label": "KC",
+				"label": "Kean's Monokai Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/KC.tmTheme"
 			}
