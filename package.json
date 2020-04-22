@@ -1,7 +1,7 @@
 {
-	"name": "theme-kc",
+	"name": "Kean's Monokai Theme",
 	"version": "0.0.1",
-	"publisher": "vscode",
+	"publisher": "Kean Ching",
 	"engines": { "vscode": "*" },
 	"contributes": {
 		"themes": [
